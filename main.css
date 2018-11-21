@@ -1,0 +1,73 @@
+* {
+    box-sizing: border-box;
+    overflow: 0;
+}
+
+body {
+    background: black;
+}
+
+.navbar {
+    background-color: black;
+    text-align: center;
+}
+
+.navigation a {
+    padding: 20px;
+    color: aqua;
+}
+
+.navtext {
+    display: inline;
+}
+
+.collection {
+    color: white;
+}
+
+.container-fluid {
+    background-color: white;
+}
+
+.header {
+    padding-top: 40px;
+    padding-bottom: 60px;
+}
+
+h1 {
+    padding-top: 50px;
+}
+
+p {
+    padding-left: 15px;
+}
+
+.col-xl {
+    padding-top: 50px;
+}
+
+.card {
+    border: none;
+}
+
+.card:hover {
+    background-color: black;
+    border: 2px red;
+}
+
+.cards {
+    padding-top: 150px;
+}
+
+h2 {
+    letter-spacing: 55px;
+    vertical-align: middle;
+}
+
+.content {
+    padding-top: 100px;
+}
+
+.span {
+    padding-top: 100px;
+}
