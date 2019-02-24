@@ -1,7 +1,10 @@
 # UltraWearStore\
 
-This is a very simple Ultra Wear Store website project done on Bootstrap.
+This is my very first WEBSITE project called Ultra Wear Store done while practicing on Bootstrap.
 
-Enjoy!
+▒█▀▀▀ ▒█▄░▒█ ░░░▒█ ▒█▀▀▀█ ▒█░░▒█ 　 ▒█▀▀█ ░█▀▀█ ▒█▀▀█ ▒█▀▀▀ █ 
+▒█▀▀▀ ▒█▒█▒█ ░▄░▒█ ▒█░░▒█ ▒█▄▄▄█ 　 ▒█▀▀▄ ▒█▄▄█ ▒█▀▀▄ ▒█▀▀▀ ▀ 
+▒█▄▄▄ ▒█░░▀█ ▒█▄▄█ ▒█▄▄▄█ ░░▒█░░ 　 ▒█▄▄█ ▒█░▒█ ▒█▄▄█ ▒█▄▄▄ ▄ 
 
-pitmcdonald
+__________________________
+   --> PITMCDONALD <--
